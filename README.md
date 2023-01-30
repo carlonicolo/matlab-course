@@ -1,1 +1,1 @@
-# matlab-course
+# Matlab course
