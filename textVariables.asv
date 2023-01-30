@@ -1,0 +1,9 @@
+text="This is a text variable"
+
+class(text)
+
+vector=["This" "is" "a" "vector"]
+
+vector(4)
+
+matrix=["This" "is"; "a" "matrix"; "of" "w"]
